@@ -1,2 +1,1 @@
-# JoyStorage
-.
+# PLEASE READ THIS FIRST
